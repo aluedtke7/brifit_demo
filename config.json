@@ -1,0 +1,12 @@
+{
+    "inside": {
+        "mac": "AA:BB:CC:DD:EE:F0",
+        "temperature-calibration": 0,
+        "humidity-calibration": 0
+    },
+    "outside": {
+        "mac": "AA:BB:CC:DD:EE:F1",
+        "temperature-calibration": 0,
+        "humidity-calibration": 0
+    }
+}
